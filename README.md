@@ -14,3 +14,4 @@ The portal has 3 option, 1. Choose data 2. Chart generation 3.Predictive analysi
 
 ## Requirements
 Make sure that matplotlib library is installed in the computer to create chart generation.
+Change the database according the server, name ,username and password.
