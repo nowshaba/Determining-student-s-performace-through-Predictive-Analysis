@@ -5,7 +5,7 @@
 
 <%
 String ip="localhost";
-String db="Audio_Steganography";
+String db="students_record";
 String usr="abc";
 String pwd="123";
 
